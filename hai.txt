@@ -1,4 +1,4 @@
-hello
+print("hello")
 print("hello world")
-wtf3
-5
+print("wtf3")
+primt("5")
