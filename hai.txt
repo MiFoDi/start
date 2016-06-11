@@ -1,4 +1,5 @@
 print("hello")
 print("hello world")
 print("wtf3")
-primt("5")
+print("5")
+print("Hollo my dear friend")
